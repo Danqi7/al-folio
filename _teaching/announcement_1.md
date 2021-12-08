@@ -1,7 +1,7 @@
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
+layout: distill
+date: 2020-11-07 16:11:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+ <a href="https://www.cs.princeton.edu/courses/archive/fall20/cos326/info.php" target="blank">COS 326 Functional Programing </a>
